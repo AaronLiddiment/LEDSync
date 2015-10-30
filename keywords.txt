@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map For LEDSync
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+cLEDSync	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+Wait	KEYWORD2
+NotReady	KEYWORD2
+Ready	KEYWORD2
+WaitStatus	KEYWORD2
+BoardNo	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
